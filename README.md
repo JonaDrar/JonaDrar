@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonaDrar
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Javascript/React/Node/AWS
-- 💞️ I’m looking to collaborate on MERN Proyects
+- 👀 I’m a Fullstack Developer
+- 🌱 I’m currently working with Javascript/React/Node/AWS
+- 💞️ I’m looking to collaborate on PERN Proyects
 - 📫 How to reach me: j.arayarobles@gmail.com
 
 <!---
